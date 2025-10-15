@@ -1,0 +1,164 @@
+{
+  "manga": {
+    "title": "Watashi ni Ai wo Oshiete",
+    "alternativeTitle": "わたしにアイを教えて",
+    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/watashi-ni-ai-wo-oshiete-e56a300a-60aa-433e-8589-c8a963f188f8.jpg",
+    "description": "Motohisa, seorang siswa kelas 2 SMA yang ceroboh tapi pekerja keras, baru saja menjadi ketua OSIS. Dia sangat menyukai Ririka, wakil ketua OSIS yang cerdas dan tegas. Namun entah kenapa, mereka selalu bertengkar. Suatu hari, Motohisa akhirnya memberanikan diri untuk menyatakan perasaannya kepada Ririka… tapi tepat di saat itu, dia malah terjebak dalam loop waktu! Setiap kali dia mencoba mengungkapkan cintanya, waktu selalu terulang kembali. Dengan begini, dia tidak akan pernah bisa berpacaran dengan Ririka! Apa sebenarnya yang terjadi?! Sebuah kisah romantis, komedi, dan sci-fi yang penuh kejutan dalam kehidupan sekolah!",
+    "author": "Shuichi Nimaru",
+    "artist": "Wanda Kuro",
+    "genre": [
+      "Shounen",
+      "Drama",
+      "Harem",
+      "Sci-fi",
+      "Supernatural",
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "Ongoing",
+    "views": 0,
+    "links": {
+      "mangadex": "https://mangadex.org/title/c14b2a85-ca88-4bf7-8937-87baf95491c0/watashi-ni-ai-wo-oshiete",
+      "raw": "https://championcross.jp/episodes/312e96c6d46e6/"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/AiwoOshiete/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "jpg",
+    "lockedChapters": [
+      "15"
+    ]
+  },
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "folder": "1",
+      "pages": 41,
+      "views": 1454,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "2": {
+      "title": "Chapter 2",
+      "folder": "2",
+      "pages": 26,
+      "views": 920,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "3": {
+      "title": "Chapter 3",
+      "folder": "3",
+      "pages": 31,
+      "views": 615,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "4": {
+      "title": "Chapter 4",
+      "folder": "4",
+      "pages": 26,
+      "views": 703,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "5": {
+      "title": "Chapter 5",
+      "folder": "5",
+      "pages": 28,
+      "views": 1233,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "6": {
+      "title": "Chapter 6",
+      "folder": "6",
+      "pages": 24,
+      "views": 1062,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "7": {
+      "title": "Chapter 7",
+      "folder": "7",
+      "pages": 26,
+      "views": 804,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "8": {
+      "title": "Chapter 8",
+      "folder": "8",
+      "pages": 26,
+      "views": 1059,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "10": {
+      "title": "Chapter 10",
+      "folder": "10",
+      "pages": 16,
+      "views": 887,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "11": {
+      "title": "Chapter 11",
+      "folder": "11",
+      "pages": 18,
+      "views": 741,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "12": {
+      "title": "Chapter 12",
+      "folder": "12",
+      "pages": 20,
+      "views": 1475,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "13": {
+      "title": "Chapter 13",
+      "folder": "13",
+      "pages": 18,
+      "views": 622,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "14": {
+      "title": "Chapter 14",
+      "folder": "14",
+      "pages": 22,
+      "views": 1026,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "15": {
+      "title": "Chapter 15",
+      "folder": "15",
+      "pages": 0,
+      "views": 0,
+      "uploadDate": null,
+      "locked": true
+    },
+    "9.1": {
+      "title": "Chapter 9.1",
+      "folder": "9.1",
+      "pages": 12,
+      "views": 1287,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    },
+    "9.2": {
+      "title": "Chapter 9.2",
+      "folder": "9.2",
+      "pages": 12,
+      "views": 1380,
+      "uploadDate": "2025-10-15",
+      "locked": false
+    }
+  },
+  "lastUpdated": "2025-10-15T22:01:15.950Z"
+}
